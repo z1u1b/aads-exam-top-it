@@ -1,8 +1,8 @@
 #include <iostream>
 #include <string>
 #include <fstream>
-#include "functions.hpp"
-#include "person.hpp"
+#include <functions.hpp>
+#include <person.hpp>
 
 int main(int argc, char* argv[])
 {
